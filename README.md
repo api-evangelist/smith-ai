@@ -64,23 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Smith.ai is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Smith.ai offers AI agents and 500+ live North American receptionists to answer calls, qualify leads, book appointments, and update your CRM — 24/7, for law firms, home services, healthcare, and other small businesses. Handles 400,000+ calls per month across 5,000+ clients since 2015. Setup in minutes.
 
-**Areas:** Company
+**Areas:** Company · AI · Receptionist · Call Answering · Scheduling · Small Business
 
 ## Smith.ai on APIs.io
 
 Everything profiled for Smith.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/smith-ai/](https://apis.io/providers/smith-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Outbound Call Request API](https://apis.io/apis/smith-ai/outbound-call-request-api/) — Smith.ai Outbound Call Request API lets you programmatically create outbound call requests via POST to https://app.smith.ai/api/vr/v1/outbound/.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Smith Ai Authentication](https://apis.io/security/smith-ai/smith-ai-authentication/)
+- [Smith Ai Domain Security](https://apis.io/security/smith-ai/smith-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Smith Ai Scopes](https://apis.io/scopes/smith-ai/smith-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Smith Ai Plans Pricing](https://apis.io/plans/smith-ai/smith-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Smith Ai Rate Limits](https://apis.io/rate-limits/smith-ai/smith-ai-rate-limits/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://smith.ai/)
+- [Documentation](https://docs.smith.ai/)
+- [Getting started](https://docs.smith.ai/article/ikzvnbatop-how-to-set-up-outbound-calling)
+- [API reference](https://docs.smith.ai/category/ydtshfm8im-api)
+- [Pricing](https://smith.ai/pricing/ai-receptionist)
+- [Sign up](https://app.smith.ai/va/get-started/signup)
+- [Support](https://docs.smith.ai/)
+- [Changelog](https://feedback.smith.ai/changelog/spring-2025-ai-receptionist-recap-new-features-integrations-smarter-ai)
+- [Blog](https://smith.ai/blog)
+- [Terms of service](https://smith.ai/receptionists/terms)
+- [Privacy policy](https://smith.ai/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/smith-ai/](https://apis.io/providers/smith-ai/).
+**Kin Score 31.6** — thin · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 73.2 |
+
+**Agent readiness 5.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/smith-ai/](https://apis.io/providers/smith-ai/).
 
 ## How this profile is made
 
